@@ -39,7 +39,7 @@
 
 ## 📫 Connect with Me
 
-* 🌐 Website: [Chirag Bansal](chirag-bansal.com)
+* 🌐 Website: [Chirag Bansal](www.chirag-bansal.com)
 * 📧 Email: [chirag2120787@gmail.com](mailto:chirag2120787@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/chirag-bansal-599040a4/
 
